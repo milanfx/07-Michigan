@@ -156,9 +156,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">15 - Extended Reality</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/07-Michigan/MI58/" class="btn box1"><br></a>
-      <a href="/07-Michigan/MI59/" class="btn box1"><br></a>
-      <a href="/07-Michigan/MI60/" class="btn box1"><br></a>
+      <a href="/07-Michigan/MI58/" class="btn box2"><br></a>
+      <a href="/07-Michigan/MI59/" class="btn box2"><br></a>
+      <a href="/07-Michigan/MI60/" class="btn box2"><br></a>
     </div>
   </div>
   <div class="btn text">
@@ -175,23 +175,23 @@ permalink: /
   <div class="btn text">
     <div class="btn name">17 - User Research</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/07-Michigan/MI64/" class="btn box2"><br></a>
-      <a href="/07-Michigan/MI65/" class="btn box2"><br></a>
-      <a href="/07-Michigan/MI66/" class="btn box2"><br></a>
-      <a href="/07-Michigan/MI67/" class="btn box1"><br></a>
-      <a href="/07-Michigan/MI68/" class="btn box1"><br></a>
-      <a href="/07-Michigan/MI69/" class="btn box1"><br></a>
+      <a href="/07-Michigan/MI64/" class="btn box1"><br></a>
+      <a href="/07-Michigan/MI65/" class="btn box1"><br></a>
+      <a href="/07-Michigan/MI66/" class="btn box1"><br></a>
+      <a href="/07-Michigan/MI67/" class="btn box2"><br></a>
+      <a href="/07-Michigan/MI68/" class="btn box2"><br></a>
+      <a href="/07-Michigan/MI69/" class="btn box2"><br></a>
     </div>
   </div>
   <div class="btn text">
     <div class="btn name">18 - Survey Analytics </div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/07-Michigan/MI06/" class="btn box1"><br></a>
-      <a href="/07-Michigan/MI07/" class="btn box1"><br></a>
-      <a href="/07-Michigan/MI08/" class="btn box1"><br></a>
-      <a href="/07-Michigan/MI09/" class="btn box2"><br></a>
-      <a href="/07-Michigan/MI10/" class="btn box2"><br></a>
-      <a href="/07-Michigan/MI05/" class="btn box2"><br></a>
+      <a href="/07-Michigan/MI06/" class="btn box2"><br></a>
+      <a href="/07-Michigan/MI07/" class="btn box2"><br></a>
+      <a href="/07-Michigan/MI08/" class="btn box2"><br></a>
+      <a href="/07-Michigan/MI09/" class="btn box1"><br></a>
+      <a href="/07-Michigan/MI10/" class="btn box1"><br></a>
+      <a href="/07-Michigan/MI05/" class="btn box1"><br></a>
     </div>
   </div>
 </div>
