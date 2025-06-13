@@ -6,7 +6,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 01 - Python Everybody</div>
+    <div class="btn name">01 - Python for Everybody</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI01/" class="btn box1"><br></a>
       <a href="/07-Michigan/MI02/" class="btn box1"><br></a>
@@ -16,7 +16,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 02 - Web Design</div>
+    <div class="btn name">02 - Web Design for Everybody</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI06/" class="btn box2"><br></a>
       <a href="/07-Michigan/MI07/" class="btn box2"><br></a>
@@ -29,7 +29,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 03 - PostgreSQL Everybody</div>
+    <div class="btn name">03 - PostgreSQL for Everybody</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI11/" class="btn box2"><br></a>
       <a href="/07-Michigan/MI12/" class="btn box2"><br></a>
@@ -38,7 +38,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 04 - Django Everybody</div>
+    <div class="btn name">04 - Django for Everybody</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI15/" class="btn box1"><br></a>
       <a href="/07-Michigan/MI16/" class="btn box1"><br></a>
@@ -50,7 +50,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 05 - Web Applications</div>
+    <div class="btn name">05 - Web Applications for Everybody</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI19/" class="btn box1"><br></a>
       <a href="/07-Michigan/MI20/" class="btn box1"><br></a>
