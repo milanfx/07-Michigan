@@ -59,7 +59,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 06 - R Analytics</div>
+    <div class="btn name">06 - R Analytics</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI23/" class="btn box2"><br></a>
       <a href="/07-Michigan/MI24/" class="btn box2"><br></a>
@@ -71,7 +71,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 07 - Python Programming</div>
+    <div class="btn name">07 - Python Programming</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI27/" class="btn box2"><br></a>
       <a href="/07-Michigan/MI28/" class="btn box2"><br></a>
@@ -81,7 +81,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 08 - Python Data Science</div>
+    <div class="btn name">08 - Python Data Science</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI32/" class="btn box1"><br></a>
       <a href="/07-Michigan/MI33/" class="btn box1"><br></a>
@@ -94,7 +94,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 09 - Sports Analytics</div>
+    <div class="btn name">09 - Sports Analytics</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI37/" class="btn box1"><br></a>
       <a href="/07-Michigan/MI38/" class="btn box1"><br></a>
@@ -104,7 +104,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 10 - Generative AI</div>
+    <div class="btn name">10 - Generative AI</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI42/" class="btn box2"><br></a>
       <a href="/07-Michigan/MI43/" class="btn box2"><br></a>
@@ -116,7 +116,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 11 - Python Statistics</div>
+    <div class="btn name">11 - Python Statistics</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI46/" class="btn box2"><br></a>
       <a href="/07-Michigan/MI47/" class="btn box2"><br></a>
@@ -124,7 +124,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 12 - Health Research</div>
+    <div class="btn name">12 - Health Research</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI49/" class="btn box1"><br></a>
       <a href="/07-Michigan/MI50/" class="btn box1"><br></a>
@@ -135,7 +135,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 13 - Data Quality</div>
+    <div class="btn name">13 - Data Quality</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI52/" class="btn box1"><br></a>
       <a href="/07-Michigan/MI53/" class="btn box1"><br></a>
@@ -143,7 +143,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 14 - Digital Technologies</div>
+    <div class="btn name">14 - Digital Technologies</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI55/" class="btn box2"><br></a>
       <a href="/07-Michigan/MI56/" class="btn box2"><br></a>
@@ -154,7 +154,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 15 - Extended Reality</div>
+    <div class="btn name">15 - Extended Reality</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI58/" class="btn box1"><br></a>
       <a href="/07-Michigan/MI59/" class="btn box1"><br></a>
@@ -162,7 +162,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 16 - AI Engineers</div>
+    <div class="btn name">16 - AI Engineers</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI61/" class="btn box1"><br></a>
       <a href="/07-Michigan/MI62/" class="btn box1"><br></a>
@@ -173,7 +173,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 17 - User Research</div>
+    <div class="btn name">17 - User Research</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI64/" class="btn box2"><br></a>
       <a href="/07-Michigan/MI65/" class="btn box2"><br></a>
@@ -184,7 +184,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">Specialization 18 - Survey Analytics </div>
+    <div class="btn name">18 - Survey Analytics </div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/07-Michigan/MI06/" class="btn box1"><br></a>
       <a href="/07-Michigan/MI07/" class="btn box1"><br></a>
